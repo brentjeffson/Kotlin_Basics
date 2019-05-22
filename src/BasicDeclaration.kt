@@ -14,5 +14,5 @@ fun main(args: Array<String>) {
     val longNum = 1234567890L // 64 bit
 
     var noValueString: String
-    noValueString = "I am a no value string originally."
+    noValueString = "I am a no value string originally. Fixed bug"
 }
